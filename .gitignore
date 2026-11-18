@@ -1,0 +1,11 @@
+# Real business data and generated pitch assets - keep out of a public repo
+*.csv
+mockups/
+scripts.md
+
+# Local/editor/secrets
+.claude/
+.env*
+.DS_Store
+__pycache__/
+*.pyc
